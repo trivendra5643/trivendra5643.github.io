@@ -72,7 +72,7 @@ body, p {
 }
 
 .indent {
-	padding-left: 1.25rem;
+	padding-left: 1.24rem;
 }
 
 h1 {
@@ -175,7 +175,7 @@ a.white {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
 	border: 0.125rem solid #00bfd8;
-	border-radius: 2rem;
+	border-radius: 2.1rem;
 	background-color: transparent;
 	color: #00bfd8;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
